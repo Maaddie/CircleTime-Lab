@@ -1,0 +1,14 @@
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.AssemblyInfo.cs
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.exe
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.deps.json
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.runtimeconfig.json
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.runtimeconfig.dev.json
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.dll
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp3.1\CircleTime.pdb
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.dll
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.pdb
+C:\Users\mvarasteanu\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp3.1\CircleTime.genruntimeconfig.cache
